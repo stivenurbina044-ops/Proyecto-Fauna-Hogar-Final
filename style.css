@@ -73,7 +73,7 @@ nav a:hover{
 
 .banner{
     height:85vh;
-    background: url(/assets/fondo12.jpeg) no-repeat center center/cover;
+    background: url(assets/fondo12.jpeg) no-repeat center center/cover;
     background-size:cover;
     background-position:center;
     display:flex;
